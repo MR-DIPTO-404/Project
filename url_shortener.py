@@ -9,4 +9,3 @@ url=input(' ENTER YOUR LONG URL : ')
 shortx=pyshorteners.Shortener()
 short_url=shortx.tinyurl.short(url)
 print(' YOUR SHORT URL IS : '+short_url)
-#BYE GUYS TAKE LOVE 💕
