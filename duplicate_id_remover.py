@@ -1,3 +1,5 @@
+#WRITTEN BY MR.DIPTO
+#FOLLOW MY GITHUB : https://github.com/MR-DIPTO-404
 from os import system as clr
 clr('clear')
 print("        DUPLICATE ID REMOVER ")
